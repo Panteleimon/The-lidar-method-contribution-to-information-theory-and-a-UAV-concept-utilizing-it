@@ -23,6 +23,8 @@ The laser radar system sends a pulsed laser beam to the reflector, which is pres
 1. Red straight = signal from the plane
 2. Yellow straight = many micro-signals, which have in the information ready forrecording and editing, are directed back to the airplane tracking system.
 
+<br>
+
 The lidar technique, analyzing the backscattering signals that originate from the interaction of its components at the atmosphere by the laser radiation, is able to determine the vertical distribution of the main pollutants andconstituents at the atmosphere with a high spatial (~ 3-7 m) and at the sametime with a high spatial in timing (10-30 s).
 
 <br>
@@ -30,7 +32,7 @@ The lidar technique, analyzing the backscattering signals that originate from th
 <div align="center"><img src ="https://cloud.githubusercontent.com/assets/16741917/21157283/72e22118-c181-11e6-8d24-31de5ba91521.jpg"/></div>
 <p align="center">Typical system layout Lidar(Weitkamp, 2005).</p>
 
-
+<br>
 
 The main components that make up a device sensing LIDAR is a strong pulsed LASER source, an optical backscattering radiation detection system (telescope) and its conversion into electrical signal and a recording system, which captures and digitizes the signal. Finally, a computer is used for storing and processing of data obtained. A laser pulse power of some MW or TW is directed through mirrors into the atmosphere. Often, a small part of this pulse (approximately 1%) taken as a sample to determine the following: the principle of time measurement (definition of zero time t 0), the reference signal, which with the return signal can be normalized and pay a price for the energy output, due to the fact that the radiated energy of laser beam varies in time, and control of the wavelength of the laser in use case variable-wavelength laser.
 
