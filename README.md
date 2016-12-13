@@ -75,6 +75,8 @@ Depending on the physical mechanism that is used to place a measurement, lidar s
 
 <h3 align="center">THE BASIC EQUATION EXPRESSING LIDAR</h3>
 
+<br>
+
 <p align="center">P(R) = KG(R) * β(R) T(R)</p>
 
 **(i)** P = POWER
