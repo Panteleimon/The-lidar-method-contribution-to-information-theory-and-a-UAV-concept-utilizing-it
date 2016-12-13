@@ -55,6 +55,8 @@ Over the last years various lidar techniques were developed about telescoping at
 - .Absorption : The beam of the laser radiation weakens due to convergence of the wavelength absorption band with such molecule
 - .Differential scatter/absorption: The differential attenuation of two laser beams, as shown bybackscattering marks, when the frequency of a ray coincides with the frequency of known molecular transition, while the frequency of another is just after or before this characteristic frequency.
 
+<br>
+
 Depending on the physical mechanism that is used to place a measurement, lidar systems may be classified into several categories which we mention below (Weitkamp 2005):
 
 • Lidar backscatter
