@@ -199,9 +199,9 @@ image
 <h4 align="center">**This paper was carried out in the framework of the course Communication Systems, course of the 5th semester of Department of Applied Informatics.**</h4>
 <h4 align="center">**Students:**</h4>
 
-<p align="center">
+
 Panteleimon Stamatakis ([it1526@uom.edu.gr](mailto:it1526@uom.edu.gr), [pastamatakis@gmail.com](mailto:pastamatakis@gmail.com) )
 
 Dimitrios V Papadopoulos ([it15257@uom.edu.gr](mailto:it15257@uom.edu.gr), [papadim112@gmail.com](mailto:papadim112@gmail.com) )
-</p>
+
 
