@@ -14,11 +14,11 @@ Laser radar or laser 3D scanning, 1960s, for the detection of anti submarine air
 
 Most of the airborne laser radar sensors consist of a lidar, a GPS receiver, an inertial measurement unit (IMU), a travel, a computer and a device for storing data.
 
-The laser radar system sends a pulsed laser beam to the reflector, which is presented in a downward aerial platform, usually a stationary blade of an aircraft or a helicopter. From the edge to the edge of the beam scanning and the aircraft flew over the area between the measurement study, 20 thousand to 150 thousand points per second.When the laser beam is reflected back in the mirror. The time interval between the pulses from the aerial platform and the sensor laser radar returns the measurement and recording. GPS accurately determine the location of the rotor with the longitude and elevation. Laser radar sensors collect large amounts of data and records can easily create a single point of storage in the record.
+The laser radar system sends a pulsed laser beam to the reflector, which is presented in a downward aerial platform, usually a stationary blade of an aircraft or a helicopter. From the edge to the edge of the beam scanning and the aircraft flew over the area between the measurement study, 20 thousand to 150 thousand points per second.When the laser beam is reflected back in the mirror. The time interval between the pulses from the aerial platform and the sensor laser radar returns the measurement and recording. GPS accurately determine the location of the rotor with the longitude and elevation. Laser radar sensors collect large amounts of data and a single record can easily create million recorded points that need to be saved in terabytes.
 
 <br>
 
-<div><img align="left" src ="https://cloud.githubusercontent.com/assets/16741917/21157282/72e21448-c181-11e6-8970-f18cc01940c7.jpg"/><div><br><br><br><br><br>1. Red straight = signal from the plane<br><br>2. Yellow straight = many micro-signals, which have in the information ready forrecording and editing, are directed back to the airplane tracking system.</div></div>
+<div><img align="left" src ="https://cloud.githubusercontent.com/assets/16741917/21157282/72e21448-c181-11e6-8970-f18cc01940c7.jpg"/><div><br><br><br><br><br>1. Red straight = signal from the plane<br><br>2. Yellow straight = many micro-signals,  which contain information to be recording and editing, are directed back to the airplane tracking system.</div></div>
 
 
 
@@ -35,7 +35,7 @@ The lidar technique, analyzing the backscattering signals that originate from th
 
 <br>
 
-The main components that make up a device sensing LIDAR is a strong pulsed LASER source, an optical backscattering radiation detection system (telescope) and its conversion into electrical signal and a recording system, which captures and digitizes the signal. Finally, a computer is used for storing and processing of data obtained. A laser pulse power of some MW or TW is directed through mirrors into the atmosphere. Often, a small part of this pulse (approximately 1%) taken as a sample to determine the following: the principle of time measurement (definition of zero time t 0), the reference signal, which with the return signal can be normalized and pay a price for the energy output, due to the fact that the radiated energy of laser beam varies in time, and control of the wavelength of the laser in use case variable-wavelength laser.
+The main components that make up a device sensing LIDAR is a strong pulsed LASER source, an optical backscattering radiation detection system (telescope) and its conversion into electrical signal and a recording system, which captures and digitizes the signal. Finally, a computer is used to store and process the data obtained. A laser pulse power of some MW or TW is directed through mirrors into the atmosphere. Often, a small part of this pulse (approximately 1%) taken as a sample to determine the following: the principle of time measurement (definition of zero time t 0), the reference signal, which with the return signal can be normalized and pay a price for the energy output, due to the fact that the radiated energy of laser beam varies in time, and control of the wavelength of the laser in use case variable-wavelength laser.
 
 
 <br>
@@ -49,7 +49,7 @@ Over the last years various lidar techniques were developed about telescoping at
 
 - .Rayleigh Scatter: The laser flexibly scatters from atoms or molecules, without differentiation of the wavelength of the scattered radiation.
 - .Mie Scatter: The laser radiation flexibly scatters from small particles, without differentiation of the wavelength of the scattered radiation.
-- .Raman Scatter: The laser radiation scatters untirely from the molecules, with displacement of the wavelength of the scattered radiation.
+- .Raman Scatter: The laser radiation scatters entirely from the molecules, with displacement of the wavelength of the scattered radiation.
 - .Scatter coordination: The frequency of the emitted laser radiation coincides with the frequency of a particular atom&#39;s energy transition, stimulated, and then scattersunroused,without offset in wavelength.
 - .Fluorescence: The frequency of the emitted laser radiation coincides with the frequency of a particular atom&#39;s energy transition, absorbed partially and then re-transmitted at a longer wavelength.
 - .Absorption : The beam of the laser radiation weakens due to convergence of the wavelength absorption band with such molecule
@@ -89,7 +89,7 @@ Depending on the physical mechanism that is used to place a measurement, lidar s
 
 **(v)**β (R) = BACKSCATTERING FACTOR AT DISTANCE R
 
-**(vi)** T (R) = MOUNT EMISSION THAT DESCRIBED HOW LIGHT DURING THE SENAROUTE FROM AND TO THE LIDAR.
+**(vi)** T (R) =  MOUNT EMISSION THAT DESCRIBES HOW MUCH LIGHT IS LOST DURING THE ROUTE FROM AND TO THE LIDAR.
 
 <br>
 
@@ -115,7 +115,7 @@ Depending on the physical mechanism that is used to place a measurement, lidar s
 
 
 
-A very helpful video to understand what does this technology but at the same time and how, by Professor Nicholas Coops responsible research team, Chair in Remote Sensing, University of British Columbia.
+A very helpful video to understand what does this technology do and how, by Professor Nicholas Coops responsible research team, Chair in Remote Sensing, University of British Columbia.
 
 Link: [https://www.youtube.com/watch?v=HfV7jJgrw4Q](https://www.youtube.com/watch?v=HfV7jJgrw4Q)
 
