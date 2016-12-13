@@ -196,7 +196,7 @@ Bibliography:
 
 5) http://desktop.arcgis.com/en/arcmap/10.3/manage-data/las-dataset/what-is-lidar-data-.html
 
-<div align="center">
+
 **This paper was carried out in the framework of the course Communication Systems, lesson of the 5th semester of Department of Applied Informatics.**
 
 **Students:**
@@ -204,4 +204,4 @@ Bibliography:
  Panteleimon Stamatakis ([it1526@uom.edu.gr](mailto:it1526@uom.edu.gr), [pastamatakis@gmail.com](mailto:pastamatakis@gmail.com))
 
  Dimitrios V Papadopoulos ([it15257@uom.edu.gr](mailto:it15257@uom.edu.gr), [papadim112@gmail.com](mailto:papadim112@gmail.com) )
-</div>
+
