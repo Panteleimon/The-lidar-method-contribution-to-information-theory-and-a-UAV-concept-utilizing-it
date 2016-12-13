@@ -33,7 +33,7 @@ Typical system layout Lidar(Weitkamp, 2005).
 The main components that make up a device sensing LIDAR is a strong pulsed LASER source, an optical backscattering radiation detection system (telescope) and its conversion into electrical signal and a recording system, which captures and digitizes the signal. Finally, a computer is used for storing and processing of data obtained. A laser pulse power of some MW or TW is directed through mirrors into the atmosphere. Often, a small part of this pulse (approximately 1%) taken as a sample to determine the following: the principle of time measurement (definition of zero time t 0), the reference signal, which with the return signal can be normalized and pay a price for the energy output, due to the fact that the radiated energy of laser beam varies in time, and control of the wavelength of the laser in use case variable-wavelength laser.
 
 
-
+<br>
 
 
 <h3 align="center">HOW MANY TYPES OF LIDAR SYSTEMS EXIST?</h3>
@@ -82,7 +82,9 @@ Depending on the physical mechanism that is used to place a measurement, lidar s
 
 **(vi)** T (R) = MOUNT EMISSION THAT DESCRIBED HOW LIGHT DURING THE SENAROUTE FROM AND TO THE LIDAR.
 
-**IN WHAT AREAS-VARIOUS FIELDS CAN BE USED THIS TECHNOLOGY:**
+<br>
+
+<div style="text-align=center">**IN WHAT AREAS-VARIOUS FIELDS CAN BE USED THIS TECHNOLOGY:**</div>
 
 -Forest Management and Planning Flood-modeling
 
