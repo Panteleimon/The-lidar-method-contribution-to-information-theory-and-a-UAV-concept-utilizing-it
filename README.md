@@ -169,14 +169,14 @@ image
 
 
 
-   - Cheapest possible 3d printer + PLA cord
-   - Intel joule developer kit
-   - Vu8 (20 **°** version) by leddarTech lidar sensor
-   - 2 through bore slip rings(1 with motor)
-   - IMU module
-   - Tilt mechanism
-   - Lipo battery
-   - Ultrasonic range finder module
+- Cheapest possible 3d printer + PLA cord
+- Intel joule developer kit
+- Vu8 (20 **°** version) by leddarTech lidar sensor
+- 2 through bore slip rings(1 with motor)
+- IMU module
+- Tilt mechanism
+- Lipo battery
+- Ultrasonic range finder module
 
 
 
@@ -184,7 +184,7 @@ image
 
 
 
-Bibliography:
+<p align="center">Bibliography:</p>
 
 1) http://dasodata.gr/index.php/kainotomes-efarmoges/528-texnologia-lidar/507-texnologia-lidar
 
