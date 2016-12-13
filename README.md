@@ -162,7 +162,7 @@ It must be noted that all the parts listed in the end are not to be taken accord
 
 image
 
-Equipment and parts needed for the "Prometheus" UAV concept
+<p align="center">Equipment and parts needed for the "Prometheus" UAV concept</p>
 
 
 
