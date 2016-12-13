@@ -18,7 +18,7 @@ The laser radar system sends a pulsed laser beam to the reflector, which is pres
 
 <br>
 
-<div><img align="left" src ="https://cloud.githubusercontent.com/assets/16741917/21157282/72e21448-c181-11e6-8970-f18cc01940c7.jpg"/><div><br><br><br><br><br><br><br>1. Red straight = signal from the plane<br>2. Yellow straight = many micro-signals, which have in the information ready forrecording and editing, are directed back to the airplane tracking system.</div></div>
+<div><img align="left" src ="https://cloud.githubusercontent.com/assets/16741917/21157282/72e21448-c181-11e6-8970-f18cc01940c7.jpg"/><div><br><br><br><br><br>1. Red straight = signal from the plane<br><br>2. Yellow straight = many micro-signals, which have in the information ready forrecording and editing, are directed back to the airplane tracking system.</div></div>
 
 
 
