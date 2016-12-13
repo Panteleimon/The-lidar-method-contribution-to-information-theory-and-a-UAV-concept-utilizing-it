@@ -169,14 +169,14 @@ Equipment and parts needed for the "Prometheus" UAV concept
 
 
 
-- .Cheapest possible 3d printer + PLA cord
-- .Intel joule developer kit
-- .Vu8 (20 **°** version) by leddarTech lidar sensor
-- .2 through bore slip rings(1 with motor)
-- .IMU module
-- .Tilt mechanism
-- .Lipo battery
-- .Ultrasonic range finder module
+- Cheapest possible 3d printer + PLA cord
+- Intel joule developer kit
+- Vu8 (20 **°** version) by leddarTech lidar sensor
+- 2 through bore slip rings(1 with motor)
+- IMU module
+- Tilt mechanism
+- Lipo battery
+- Ultrasonic range finder module
 
 
 
