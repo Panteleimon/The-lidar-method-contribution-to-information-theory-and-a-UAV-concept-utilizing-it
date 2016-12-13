@@ -18,14 +18,14 @@ The laser radar system sends a pulsed laser beam to the reflector, which is pres
 
 
 
-image
+<div style="text-align:center"><img src ="https://cloud.githubusercontent.com/assets/16741917/21157282/72e21448-c181-11e6-8970-f18cc01940c7.jpg"/></div>
 
 1. Red straight = signal from the plane
 2. Yellow straight = many micro-signals, which have in the information ready forrecording and editing, are directed back to the airplane tracking system.
 
 The lidar technique, analyzing the backscattering signals that originate from the interaction of its components at the atmosphere by the laser radiation, is able to determine the vertical distribution of the main pollutants andconstituents at the atmosphere with a high spatial (~ 3-7 m) and at the sametime with a high spatial in timing (10-30 s).
 
-image
+<div style="text-align:center"><img src ="https://cloud.githubusercontent.com/assets/16741917/21157283/72e22118-c181-11e6-8d24-31de5ba91521.jpg"/></div>
 Typical system layout Lidar(Weitkamp, 2005).
 
 
@@ -125,7 +125,7 @@ A tricopter design was used due to the energy efficiency it provides compared to
 As illustrated bellow, the basic tricopter principle is followed resulting in all motors being equidistant. As a result, the center of gravity can be found in the middle of all three motors. We will alter that center of gravity by placing most of our components closer to the 2 front motors for a couple of reasons. The first reason being that when the rotating sensor is closer to those 2 front motors the torque its rotation produces is easier to cancel out. The second is that when the center of gravity is to the front, the motor positioned in the back which is mainly responsible for the &quot;yaw&quot; and &quot;pitch&quot; of the UAV has less weight distributed to it, resulting to faster maneuverability.
 
 
-image
+<div style="text-align:center"><img src ="https://cloud.githubusercontent.com/assets/16741917/21157280/72c21b98-c181-11e6-9959-c08d917cc878.png"/></div>
 
 
 The UAV has 4 motors. 3 motors are used for the propellers. A tilt mechanism at the back motor in order to control the &quot;yaw&quot; of the UAV is also needed. The propellers for the 3 motors can differ in size, type, length etc., as long as they do not block the lidar&#39;s scanning field of view.
