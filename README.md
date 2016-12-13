@@ -1,4 +1,4 @@
-# The lidar method contribution to information theory and a UAV concept utilizing it.
+<div style="text-align:center"># The lidar method contribution to information theory and a UAV concept utilizing it.</div>
 
 
 
