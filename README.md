@@ -16,7 +16,7 @@ Most of the airborne laser radar sensors consist of a lidar, a GPS receiver, an 
 
 The laser radar system sends a pulsed laser beam to the reflector, which is presented in a downward aerial platform, usually a stationary blade of an aircraft or a helicopter. From the edge to the edge of the beam scanning and the aircraft flew over the area between the measurement study, 20 thousand to 150 thousand points per second.When the laser beam is reflected back in the mirror. The time interval between the pulses from the aerial platform and the sensor laser radar returns the measurement and recording. GPS accurately determine the location of the rotor with the longitude and elevation. Laser radar sensors collect large amounts of data and records can easily create a single point of storage in the record.
 
-
+<br>
 
 <div align="center"><img src ="https://cloud.githubusercontent.com/assets/16741917/21157282/72e21448-c181-11e6-8970-f18cc01940c7.jpg"/></div>
 
@@ -24,6 +24,8 @@ The laser radar system sends a pulsed laser beam to the reflector, which is pres
 2. Yellow straight = many micro-signals, which have in the information ready forrecording and editing, are directed back to the airplane tracking system.
 
 The lidar technique, analyzing the backscattering signals that originate from the interaction of its components at the atmosphere by the laser radiation, is able to determine the vertical distribution of the main pollutants andconstituents at the atmosphere with a high spatial (~ 3-7 m) and at the sametime with a high spatial in timing (10-30 s).
+
+<br>
 
 <div align="center"><img src ="https://cloud.githubusercontent.com/assets/16741917/21157283/72e22118-c181-11e6-8d24-31de5ba91521.jpg"/></div>
 <p align="center">Typical system layout Lidar(Weitkamp, 2005).</p>
