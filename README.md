@@ -160,7 +160,7 @@ Finally, the brains of the UAV, a board module (the Intel joule module is illust
 
 It must be noted that all the parts listed in the end are not to be taken accordingly. Depending on the maker&#39;s needs and budget, a variety of options differing in price, performance and size can be found as an alternative for every component.
 
-image
+<div style="text-align:center"><img src ="https://cloud.githubusercontent.com/assets/16741917/21157279/72bc55b4-c181-11e6-8f75-ff7b8ef907a5.jpg"/></div>
 
 <p align="center">Equipment and parts needed for the "Prometheus" UAV concept</p>
 
