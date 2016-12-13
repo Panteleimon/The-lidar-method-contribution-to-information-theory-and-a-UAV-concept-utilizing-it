@@ -84,7 +84,7 @@ Depending on the physical mechanism that is used to place a measurement, lidar s
 
 <br>
 
-<div style="text-align=center">**IN WHAT AREAS-VARIOUS FIELDS CAN BE USED THIS TECHNOLOGY:**</div>
+<div align="center">**IN WHAT AREAS-VARIOUS FIELDS CAN BE USED THIS TECHNOLOGY:**</div>
 
 -Forest Management and Planning Flood-modeling
 
