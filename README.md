@@ -200,8 +200,12 @@ image
 <h4 align="center">**Students:**</h4>
 
 
-<div align="center">
-Panteleimon Stamatakis ([it1526@uom.edu.gr](mailto:it1526@uom.edu.gr), [pastamatakis@gmail.com](mailto:pastamatakis@gmail.com) )
-</div>
-<div align="center">Dimitrios V Papadopoulos ([it15257@uom.edu.gr](mailto:it15257@uom.edu.gr), [papadim112@gmail.com](mailto:papadim112@gmail.com) )</div>
+
+<p align="center">
+Panteleimon Stamatakis <a href="mailto:it1526@uom.edu.gr">it1526@uom.edu.gr</a><a href="mailto:pastamatakis@gmail.com">pastamatakis@gmail.com</a>
+</p>
+
+
+
+<p align="center">Dimitrios V Papadopoulos <a href="mailto:it15257@uom.edu.gr">it15257@uom.edu.gr</a><a href="mailto:papadim112@gmail.com">papadim112@gmail.com</a></p>
 
