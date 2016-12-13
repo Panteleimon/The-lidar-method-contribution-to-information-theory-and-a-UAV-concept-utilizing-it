@@ -202,10 +202,10 @@ image
 
 
 <p align="center">
-Panteleimon Stamatakis <a href="mailto:it1526@uom.edu.gr">it1526@uom.edu.gr</a>  <a href="mailto:pastamatakis@gmail.com">pastamatakis@gmail.com</a>
+Panteleimon Stamatakis <a href="mailto:it1526@uom.edu.gr">it1526@uom.edu.gr</a>, <a href="mailto:pastamatakis@gmail.com">pastamatakis@gmail.com</a>
 </p>
 
 
 
-<p align="center">Dimitrios V Papadopoulos <a href="mailto:it15257@uom.edu.gr">it15257@uom.edu.gr</a>  <a href="mailto:papadim112@gmail.com">papadim112@gmail.com</a></p>
+<p align="center">Dimitrios V Papadopoulos <a href="mailto:it15257@uom.edu.gr">it15257@uom.edu.gr</a>, <a href="mailto:papadim112@gmail.com">papadim112@gmail.com</a></p>
 
